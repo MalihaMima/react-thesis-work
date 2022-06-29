@@ -1,0 +1,15 @@
+.splitScreen {
+    flex: 1;
+    display: flex;
+    flex-Direction: row ;
+}
+.leftpane {
+    background-color: aqua;
+    flex: 1;
+    width: '50%';
+}
+.rightpane {
+    flex: 2;
+    background-color: blue;
+    width: '50%';
+}

@@ -1,0 +1,38 @@
+.homedesign{
+    background-image: url("../images/homepage.jpg");   
+    background-position: center right;
+    margin-right: 50px;
+    height: 100%;
+  
+    background-repeat: no-repeat;
+    
+}
+
+.headingdesign1{
+    color: #143966;
+      background-Color: "DodgerBlue";
+      padding: "10px";
+      font-weight: bold;
+      font-style: italic;
+      margin-left: 200px;
+      margin-top: 100px;
+      font-size: 80px;
+}
+.headingdesign2{
+    color: #143966;
+      background-Color: "DodgerBlue";
+      padding: "10px";
+      font-style: italic;
+      margin-left: 200px;
+      margin-top: 20px;
+      font-size: 80px;
+}
+.headingdesign3{
+    color: #143966;
+      background-Color: "DodgerBlue";
+      padding: "10px";
+      font-style: italic;
+      margin-left: 200px;
+      margin-top: 20px;
+      font-size: 80px;
+}
